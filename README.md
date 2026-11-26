@@ -6,13 +6,13 @@
 -->
 
 <p align="center">
-  <img src="assets/shell.svg" width="100%" alt="greencalxtal: a clear green handheld with its circuit board showing through the shell">
+  <img src="assets/shell.svg" width="560" alt="greencalxtal: a clear green handheld with its circuit board showing through the shell">
 </p>
 
 <p align="center">
-  <img src="assets/bus.svg" width="100%" alt="Java bytecode scrolling on one lane, the stack on the other: java, react, python, docker, kubernetes, linux">
+  <img src="assets/bus.svg" width="560" alt="Java bytecode scrolling on one lane, the stack on the other: java, react, python, docker, kubernetes, linux">
 </p>
 
 <p align="center">
-  <img src="assets/term.svg" width="100%" alt="terminal running neofetch: an ASCII Tux in its real colours, beside system info">
+  <img src="assets/term.svg" width="560" alt="terminal running neofetch: an ASCII Tux in its real colours, beside system info">
 </p>
